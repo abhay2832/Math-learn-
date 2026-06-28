@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Plus symbol in top left -->
+    <path
+        android:fillColor="#60A5FA"
+        android:pathData="M24,28 h10 v2 h-10 z M29,23 v10 h-2 v-10 z" />
+        
+    <!-- Minus symbol in bottom left -->
+    <path
+        android:fillColor="#34D399"
+        android:pathData="M24,75 h10 v2 h-10 z" />
+
+    <!-- Division symbol in top right -->
+    <path
+        android:fillColor="#FBBF24"
+        android:pathData="M74,27 h10 v2 h-10 z M79,22 a1,1 0 1,1 0,2 a1,1 0 1,1 0,-2 z M79,32 a1,1 0 1,1 0,2 a1,1 0 1,1 0,-2 z" />
+
+    <!-- Multiplication symbol in bottom right -->
+    <path
+        android:fillColor="#F87171"
+        android:pathData="M76.5,73.5 L81.5,78.5 M81.5,73.5 L76.5,78.5"
+        android:strokeWidth="2"
+        android:strokeColor="#F87171"
+        android:strokeLineCap="round" />
+
+    <!-- Central Square Root and algebraic "x" -->
+    <!-- Radical path -->
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M38,58 L44,58 L49,72 L60,38 L76,38"
+        android:strokeWidth="4"
+        android:strokeColor="#FFFFFF"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round" />
+
+    <!-- Letter x under the radical bar -->
+    <path
+        android:fillColor="#00000000"
+        android:pathData="M61,50 L69,60 M69,50 L61,60"
+        android:strokeWidth="2.5"
+        android:strokeColor="#60A5FA"
+        android:strokeLineCap="round" />
+
+</vector>

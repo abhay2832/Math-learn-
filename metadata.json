@@ -1,0 +1,6 @@
+{
+  "name": "Math Learn",
+  "description": "Premium offline educational app to master mathematical tables, squares, cubes, roots, and test your skills with custom quizzes and mock exams.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
